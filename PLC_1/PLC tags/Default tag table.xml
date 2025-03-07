@@ -10,7 +10,7 @@
         <AttributeList>
           <DataTypeName>Bool</DataTypeName>
           <LogicalAddress>%I0.1</LogicalAddress>
-          <Name>dfsq</Name>
+          <Name>dfs</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="2" CompositionName="Comment">
